@@ -9,17 +9,14 @@
       "img": "https://fronthooks.ir/images/courses/responsive-web.svg",
       "price": 498000,
       "discount": 389000,
-      "typeCourse": {
-        "onPerforming": "yes",
-        "Complete": "no",
-        "discounted": "yes",
-        "free": "no",
-        "cash": "yes"
-      },
-      "grouping": {
-        "fronEnd": "yes",
-        "backEnd": "no"
-      },
+      "typeCourse": [
+        "onPerforming",
+        "discounted",
+        "cash"
+      ],
+      "grouping": [
+        "fronEnd"
+      ],
       "darsad": "20%",
       "students": "2243",
       "numberSessions": "72",
@@ -122,17 +119,14 @@
       "img": "https://fronthooks.ir/images/courses/reactjs.svg",
       "price": 2989000,
       "discount": "",
-      "typeCourse": {
-        "onPerforming": "no",
-        "Complete": "yes",
-        "discounted": "no",
-        "free": "no",
-        "cash": "yes"
-      },
-      "grouping": {
-        "fronEnd": "yes",
-        "backEnd": "no"
-      },
+      "typeCourse": [
+        "Complete",
+        "cash"
+      ],
+      "grouping": [
+        "fronEnd",
+        "backEnd"
+      ],
       "students": "1677",
       "numberSessions": "305",
       "time": "48:24:00",
